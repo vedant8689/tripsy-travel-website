@@ -1,4 +1,4 @@
-# Tripsy-travel-website-php
+# Tripsy-Travel-Website-PHP
 ![tripsy1](https://github.com/vedant8689/tripsy-travel-website-php/assets/86913725/dd474012-7844-46db-b0f5-e88bb9f89f40)
 
 # Information
