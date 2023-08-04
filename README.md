@@ -1,5 +1,7 @@
-# tripsy-travel-website-php
+# Tripsy-travel-website-php
 ![start1] ![tripsy1](https://github.com/vedant8689/tripsy-travel-website-php/assets/86913725/dd474012-7844-46db-b0f5-e88bb9f89f40)
+
+# Information
 The Tripsy Travel Website (PHP) is an extension of the original Tripsy website. Initially, "Tripsy" was a static website crafted with HTML, CSS, and JS. 
 However, this new version which has been developed into a full-stack travel website, utilizing WAMP Technologies for development.
 Uses PHP for backend connection and HTML, CSS (Tailwind CSS) for frontend.
