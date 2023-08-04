@@ -28,7 +28,7 @@ Uses PHP for backend connection and HTML, CSS (Tailwind CSS) for frontend.
 - Tour Packages
   ![tripsy3](https://github.com/vedant8689/tripsy-travel-website-php/assets/86913725/22174fd3-018e-4aa9-a2ed-43ca1eb0e410)
 
-# tech-stacks
+# Tech-stacks
 - **PHP**: The website employs PHP as its scripting language, enabling dynamic functionality and interaction with the server.
 - **TAILWIND CSS**: To enhance the website's appearance and styling, the developers utilized TAILWIND CSS, a popular utility-first CSS framework.
 - **MySQL**: As the chosen database management system, MySQL stores and manages the website's data efficiently.
